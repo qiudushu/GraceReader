@@ -1,0 +1,6 @@
+framework module GraceArtist {
+  umbrella header "GraceArtist.h"
+
+  export *
+  module * { export * }
+}
